@@ -7,6 +7,6 @@ function LeapYear($year) {
     elseif (year % 100==0)
         print "False";
     else (year % 400==0)
-    return (true)
+    
 
         ?>
